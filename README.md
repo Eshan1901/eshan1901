@@ -20,7 +20,7 @@
 
 * 💻 I have built projects like **Spotify Clone, Weather App & Playbox**
 
-* 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at **ebhardwaj87@gmail.com**
 
 * ⚡ Fun fact: **My code works… after debugging for hours 😄**
 
