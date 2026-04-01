@@ -64,8 +64,8 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshan1901&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Eshan1901&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan1901&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=eshan1901&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
@@ -73,7 +73,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Eshan1901&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=eshan1901&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
