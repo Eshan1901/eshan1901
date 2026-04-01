@@ -56,7 +56,7 @@
 ## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eshan1901/Eshan1901/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Eshan1901/eshan1901/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
