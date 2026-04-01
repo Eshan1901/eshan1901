@@ -64,8 +64,8 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan1901&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=eshan1901&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eshan1901&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eshan1901&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
