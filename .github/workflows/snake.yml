@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -34,4 +37,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
           commit_message: "chore: update contribution snake"
