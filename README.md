@@ -16,7 +16,7 @@
 
 * 🌱 I’m currently learning **System Design & Backend Development**
 
-* 🔭 I’m currently working on **Daily Wage Job Finder App**
+* 🔭 I’m currently working on app development too.
 
 * 💻 I have built projects like **Spotify Clone, Weather App & Playbox**
 
